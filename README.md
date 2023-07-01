@@ -16,7 +16,7 @@ Install MySQL Installer Community from https://dev.mysql.com/downloads/windows/i
 
 1. Clone the repository
 ```
-git clone https://github.com/AnirudhBagalkotker/DBMS_PROJECT.git
+git clone https://github.com/HarshitJuneja73/DBMS_PROJECT.git
 ```
 
 2. Import SQL
